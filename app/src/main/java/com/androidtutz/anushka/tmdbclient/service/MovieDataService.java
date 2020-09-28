@@ -6,9 +6,6 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 
-/**
- * Created by K. A. ANUSHKA MADUSANKA on 7/9/2018.
- */
 public interface MovieDataService {
 
 

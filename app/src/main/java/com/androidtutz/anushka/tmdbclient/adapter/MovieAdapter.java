@@ -22,9 +22,6 @@ import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 
-/**
- * Created by K. A. ANUSHKA MADUSANKA on 7/10/2018.
- */
 public class MovieAdapter extends PagedListAdapter<Movie,MovieAdapter.MovieViewHolder> {
 
     private Context context;

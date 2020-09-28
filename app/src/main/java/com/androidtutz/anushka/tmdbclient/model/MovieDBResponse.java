@@ -1,8 +1,5 @@
 package com.androidtutz.anushka.tmdbclient.model;
 
-/**
- * Created by K. A. ANUSHKA MADUSANKA on 7/9/2018.
- */
 import java.util.List;
 import android.os.Parcel;
 import android.os.Parcelable;
